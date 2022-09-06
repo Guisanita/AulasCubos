@@ -1,5 +1,6 @@
-let nome = "Gui";
+
 
 {
-    console.log(nome);
+    let nome = "Gui";
 }
+console.log(nome);
