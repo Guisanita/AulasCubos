@@ -9,3 +9,7 @@ console.log(nota);
 nota = 10 // Definindo valor 
 
 console.log(nota);
+
+nota = null; // Anulando o valor de nota, não precisa de "" pois null é uma palavra já guardada 
+
+console.log(nota);
