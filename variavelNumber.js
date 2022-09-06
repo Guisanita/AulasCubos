@@ -5,3 +5,6 @@ console.log(idade);
 let alturaEmMetros = 1.64;
 
 console.log(alturaEmMetros);
+
+// String template
+console.log(`Minha idade é ${idade} anos e minha altura é ${alturaEmMetros}m`);
