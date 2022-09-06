@@ -1,3 +1,7 @@
 const primeiroNome = "Guilherme";
 
-console.log(SegundoNome);
+console.log(primeiroNome);
+
+primeiroNome = "Gui";
+
+console.log(primeiroNome);
