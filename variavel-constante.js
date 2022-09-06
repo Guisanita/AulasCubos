@@ -1,4 +1,4 @@
-const primeiroNome = "Guilherme";
+let primeiroNome = "Guilherme";
 
 console.log(primeiroNome);
 
