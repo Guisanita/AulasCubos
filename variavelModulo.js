@@ -1,3 +1,3 @@
-let resto = 12 % 5;
+let resto = 23 % 5;
 
 console.log(resto);
